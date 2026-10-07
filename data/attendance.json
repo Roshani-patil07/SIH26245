@@ -1,0 +1,402 @@
+[
+  {
+    "centre_id": "TC-MH-PN-042",
+    "date": "2026-10-08",
+    "claimed_attendance": 44,
+    "ai_observed_attendance": 21,
+    "mismatch": 23,
+    "mismatch_pct": 52.3
+  },
+  {
+    "centre_id": "TC-MH-PN-042",
+    "date": "2026-10-07",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 21,
+    "mismatch": 24,
+    "mismatch_pct": 53.3
+  },
+  {
+    "centre_id": "TC-MH-PN-042",
+    "date": "2026-10-06",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 21,
+    "mismatch": 24,
+    "mismatch_pct": 53.3
+  },
+  {
+    "centre_id": "TC-MH-PN-042",
+    "date": "2026-10-05",
+    "claimed_attendance": 47,
+    "ai_observed_attendance": 21,
+    "mismatch": 26,
+    "mismatch_pct": 55.3
+  },
+  {
+    "centre_id": "TC-MH-PN-042",
+    "date": "2026-10-04",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 21,
+    "mismatch": 25,
+    "mismatch_pct": 54.3
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "date": "2026-10-08",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "date": "2026-10-07",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "date": "2026-10-06",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "date": "2026-10-05",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "date": "2026-10-04",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "date": "2026-10-08",
+    "claimed_attendance": 47,
+    "ai_observed_attendance": 47,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "date": "2026-10-07",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "date": "2026-10-06",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "date": "2026-10-05",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "date": "2026-10-04",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "date": "2026-10-08",
+    "claimed_attendance": 25,
+    "ai_observed_attendance": 25,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "date": "2026-10-07",
+    "claimed_attendance": 27,
+    "ai_observed_attendance": 27,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "date": "2026-10-06",
+    "claimed_attendance": 27,
+    "ai_observed_attendance": 27,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "date": "2026-10-05",
+    "claimed_attendance": 26,
+    "ai_observed_attendance": 26,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "date": "2026-10-04",
+    "claimed_attendance": 28,
+    "ai_observed_attendance": 28,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "date": "2026-10-08",
+    "claimed_attendance": 37,
+    "ai_observed_attendance": 37,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "date": "2026-10-07",
+    "claimed_attendance": 38,
+    "ai_observed_attendance": 38,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "date": "2026-10-06",
+    "claimed_attendance": 37,
+    "ai_observed_attendance": 37,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "date": "2026-10-05",
+    "claimed_attendance": 37,
+    "ai_observed_attendance": 37,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "date": "2026-10-04",
+    "claimed_attendance": 38,
+    "ai_observed_attendance": 38,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "date": "2026-10-08",
+    "claimed_attendance": 38,
+    "ai_observed_attendance": 38,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "date": "2026-10-07",
+    "claimed_attendance": 35,
+    "ai_observed_attendance": 35,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "date": "2026-10-06",
+    "claimed_attendance": 34,
+    "ai_observed_attendance": 34,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "date": "2026-10-05",
+    "claimed_attendance": 34,
+    "ai_observed_attendance": 34,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "date": "2026-10-04",
+    "claimed_attendance": 38,
+    "ai_observed_attendance": 38,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "date": "2026-10-08",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "date": "2026-10-07",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "date": "2026-10-06",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "date": "2026-10-05",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "date": "2026-10-04",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "date": "2026-10-08",
+    "claimed_attendance": 36,
+    "ai_observed_attendance": 36,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "date": "2026-10-07",
+    "claimed_attendance": 35,
+    "ai_observed_attendance": 35,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "date": "2026-10-06",
+    "claimed_attendance": 35,
+    "ai_observed_attendance": 35,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "date": "2026-10-05",
+    "claimed_attendance": 37,
+    "ai_observed_attendance": 37,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "date": "2026-10-04",
+    "claimed_attendance": 34,
+    "ai_observed_attendance": 34,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "date": "2026-10-08",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "date": "2026-10-07",
+    "claimed_attendance": 47,
+    "ai_observed_attendance": 47,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "date": "2026-10-06",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "date": "2026-10-05",
+    "claimed_attendance": 45,
+    "ai_observed_attendance": 45,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "date": "2026-10-04",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "date": "2026-10-08",
+    "claimed_attendance": 48,
+    "ai_observed_attendance": 48,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "date": "2026-10-07",
+    "claimed_attendance": 44,
+    "ai_observed_attendance": 44,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "date": "2026-10-06",
+    "claimed_attendance": 47,
+    "ai_observed_attendance": 47,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "date": "2026-10-05",
+    "claimed_attendance": 46,
+    "ai_observed_attendance": 46,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "date": "2026-10-04",
+    "claimed_attendance": 47,
+    "ai_observed_attendance": 47,
+    "mismatch": 0,
+    "mismatch_pct": 0.0
+  }
+]

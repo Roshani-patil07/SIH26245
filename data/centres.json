@@ -1,0 +1,202 @@
+[
+  {
+    "centre_id": "TC-MH-PN-042",
+    "name": "Pune Skill Excellence Hub #1",
+    "qr_code": "SKILLGUARD:CENTRE:TC-MH-PN-042:AUTH_V1",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "training_partner": "Apex Industrial Training Institute",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "Healthcare Assistant",
+      "Solar Panel Installation Technician"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 87,
+    "risk_level": "CRITICAL",
+    "last_inspection_days": 43,
+    "address": "Plot 12, Industrial Area Phase 2, Pune, Maharashtra"
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "name": "Bengaluru Urban Skill Excellence Hub #2",
+    "qr_code": "SKILLGUARD:CENTRE:TC-KA-BLR-031:AUTH_V1",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Vanguard Skill Solutions",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "Data Entry Operator & IT Assistant",
+      "Healthcare Assistant"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 64,
+    "risk_level": "HIGH",
+    "last_inspection_days": 14,
+    "address": "Plot 24, Industrial Area Phase 3, Bengaluru Urban, Karnataka"
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "name": "Lucknow Skill Excellence Hub #3",
+    "qr_code": "SKILLGUARD:CENTRE:TC-UP-LKN-019:AUTH_V1",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Horizon Education Trust",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "CNC Machine Operator",
+      "Automotive Service Technician"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 20,
+    "address": "Plot 36, Industrial Area Phase 1, Lucknow, Uttar Pradesh"
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "name": "Coimbatore Skill Excellence Hub #4",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-004:AUTH_V1",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Horizon Education Trust",
+    "scheme": "DDU-GKY",
+    "courses": [
+      "Electrician & Wiring Expert",
+      "Automotive Service Technician"
+    ],
+    "sanctioned_capacity": 30,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 20,
+    "address": "Plot 48, Industrial Area Phase 2, Coimbatore, Tamil Nadu"
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "name": "North Delhi Skill Excellence Hub #5",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-005:AUTH_V1",
+    "state": "Delhi",
+    "district": "North Delhi",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Vanguard Skill Solutions",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "Electrician & Wiring Expert",
+      "Automotive Service Technician"
+    ],
+    "sanctioned_capacity": 40,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 17,
+    "address": "Plot 60, Industrial Area Phase 3, North Delhi, Delhi"
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "name": "Varanasi Skill Excellence Hub #6",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-006:AUTH_V1",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Horizon Education Trust",
+    "scheme": "PMKVY 4.0",
+    "courses": [
+      "CNC Machine Operator",
+      "Data Entry Operator & IT Assistant"
+    ],
+    "sanctioned_capacity": 40,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 15,
+    "address": "Plot 72, Industrial Area Phase 1, Varanasi, Uttar Pradesh"
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "name": "Mysuru Skill Excellence Hub #7",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-007:AUTH_V1",
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "National Skill Development Corp (NSDC)",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "Electrician & Wiring Expert",
+      "Solar Panel Installation Technician"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 13,
+    "address": "Plot 84, Industrial Area Phase 2, Mysuru, Karnataka"
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "name": "Bengaluru Urban Skill Excellence Hub #8",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-008:AUTH_V1",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "TechSkills India Academy",
+    "scheme": "PMKVY 4.0",
+    "courses": [
+      "Automotive Service Technician",
+      "Healthcare Assistant"
+    ],
+    "sanctioned_capacity": 40,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 15,
+    "address": "Plot 96, Industrial Area Phase 3, Bengaluru Urban, Karnataka"
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "name": "Lucknow Skill Excellence Hub #9",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-009:AUTH_V1",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "National Skill Development Corp (NSDC)",
+    "scheme": "NULM",
+    "courses": [
+      "Data Entry Operator & IT Assistant",
+      "Electrician & Wiring Expert"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 15,
+    "address": "Plot 108, Industrial Area Phase 1, Lucknow, Uttar Pradesh"
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "name": "Lucknow Skill Excellence Hub #10",
+    "qr_code": "SKILLGUARD:CENTRE:TC-IN-010:AUTH_V1",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "training_partner": "Horizon Education Trust",
+    "scheme": "National Apprenticeship Promotion Scheme",
+    "courses": [
+      "Solar Panel Installation Technician",
+      "Healthcare Assistant"
+    ],
+    "sanctioned_capacity": 50,
+    "current_risk_score": 24,
+    "risk_level": "LOW",
+    "last_inspection_days": 3,
+    "address": "Plot 120, Industrial Area Phase 2, Lucknow, Uttar Pradesh"
+  }
+]

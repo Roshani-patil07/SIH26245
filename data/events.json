@@ -1,0 +1,1354 @@
+[
+  {
+    "event_id": "EV-2026-0001",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-07 23:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0001-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0002",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-07 21:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0002-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 15,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0003",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-07 19:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0003-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0004",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-07 17:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0004-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0005",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-07 15:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0005-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0006",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-07 13:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0006-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 24,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0007",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-10-07 11:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0007-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 18,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0008",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-07 09:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0008-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 19,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0009",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-07 07:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.98,
+    "evidence_clip": "evidence/EV-2026-0009-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 35,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0010",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-07 05:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0010-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 24,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0011",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-07 03:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0011-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0012",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-07 01:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0012-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0013",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-06 23:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0013-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0014",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-06 21:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0014-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 16,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0015",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-06 19:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0015-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 15,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0016",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-06 17:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0016-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 33,
+      "detected_computers": 18,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0017",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-10-06 15:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.98,
+    "evidence_clip": "evidence/EV-2026-0017-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 17,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0018",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-06 13:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0018-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0019",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-06 11:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0019-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 18,
+      "detected_computers": 24,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0020",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-06 09:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0020-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0021",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-10-06 07:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0021-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 20,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0022",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-06 05:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0022-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0023",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-06 03:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0023-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 33,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0024",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-06 01:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0024-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0025",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-05 23:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0025-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0026",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-05 21:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0026-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 18,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0027",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-05 19:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0027-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0028",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-05 17:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0028-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 24,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0029",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-05 15:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0029-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0030",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-05 13:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0030-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 27,
+      "detected_computers": 18,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0031",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-05 11:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0031-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 22,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0032",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-05 09:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0032-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 33,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0033",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-05 07:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0033-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 18,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0034",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-05 05:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0034-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 26,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0035",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-05 03:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0035-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0036",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-10-05 01:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0036-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0037",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-04 23:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0037-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0038",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-04 21:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0038-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 34,
+      "detected_computers": 24,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0039",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-04 19:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0039-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 28,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0040",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-04 17:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0040-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0041",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-04 15:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0041-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 24,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0042",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-04 13:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0042-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 17,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0043",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-10-04 11:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0043-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 18,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0044",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-04 09:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0044-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 17,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0045",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-04 07:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0045-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 19,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0046",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-04 05:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0046-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 17,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0047",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-04 03:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0047-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0048",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-04 01:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0048-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0049",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-10-03 23:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0049-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 24,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0050",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-03 21:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0050-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 28,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0051",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-03 19:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0051-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 27,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0052",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-03 17:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0052-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 15,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0053",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-10-03 15:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0053-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 33,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0054",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-03 13:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0054-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0055",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-10-03 11:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0055-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0056",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-03 09:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0056-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 21,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0057",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-03 07:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0057-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 35,
+      "detected_computers": 19,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0058",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-03 05:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0058-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0059",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-03 03:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0059-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0060",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-10-03 01:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0060-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 26,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0061",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-02 23:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0061-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 18,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0062",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-02 21:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0062-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 27,
+      "detected_computers": 19,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0063",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-02 19:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0063-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0064",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-02 17:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0064-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0065",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-02 15:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.98,
+    "evidence_clip": "evidence/EV-2026-0065-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0066",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-02 13:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0066-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 35,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0067",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-02 11:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0067-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 34,
+      "detected_computers": 25,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0068",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-02 09:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0068-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 33,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0069",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-02 07:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0069-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0070",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-02 05:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0070-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 25,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0071",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-02 03:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0071-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0072",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-02 01:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0072-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 18,
+      "detected_computers": 18,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0073",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-10-01 23:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0073-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0074",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-10-01 21:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.89,
+    "evidence_clip": "evidence/EV-2026-0074-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0075",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-10-01 19:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0075-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0076",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-01 17:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0076-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0077",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-10-01 15:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0077-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0078",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-01 13:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0078-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 24,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0079",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-10-01 11:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0079-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 34,
+      "detected_computers": 18,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0080",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-10-01 09:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0080-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 21,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0081",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-10-01 07:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.98,
+    "evidence_clip": "evidence/EV-2026-0081-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 18,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0082",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-01 05:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0082-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 25,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0083",
+    "centre_id": "TC-IN-006",
+    "timestamp": "2026-10-01 03:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.98,
+    "evidence_clip": "evidence/EV-2026-0083-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 22,
+      "detected_computers": 21,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0084",
+    "centre_id": "TC-IN-004",
+    "timestamp": "2026-10-01 01:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0084-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 21,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0085",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-30 23:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0085-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0086",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-09-30 21:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0086-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0087",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-09-30 19:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0087-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 27,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0088",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-09-30 17:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0088-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0089",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-30 15:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0089-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 35,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0090",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-30 13:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.92,
+    "evidence_clip": "evidence/EV-2026-0090-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 22,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0091",
+    "centre_id": "TC-IN-008",
+    "timestamp": "2026-09-30 11:44:43",
+    "scenario": "NORMAL_ATTENDANCE",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0091-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0092",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-30 09:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0092-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0093",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-09-30 07:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0093-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 18,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0094",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-30 05:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0094-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0095",
+    "centre_id": "TC-UP-LKN-019",
+    "timestamp": "2026-09-30 03:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0095-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 19,
+      "detected_computers": 21,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0096",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-09-30 01:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0096-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 21,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0097",
+    "centre_id": "TC-IN-005",
+    "timestamp": "2026-09-29 23:44:43",
+    "scenario": "OVER_CAPACITY",
+    "confidence": 0.91,
+    "evidence_clip": "evidence/EV-2026-0097-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 24,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0098",
+    "centre_id": "TC-IN-010",
+    "timestamp": "2026-09-29 21:44:43",
+    "scenario": "LOW_ACTIVITY",
+    "confidence": 0.97,
+    "evidence_clip": "evidence/EV-2026-0098-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 20,
+      "detected_computers": 21,
+      "activity_score": "LOW_ACTIVITY"
+    }
+  },
+  {
+    "event_id": "EV-2026-0099",
+    "centre_id": "TC-IN-009",
+    "timestamp": "2026-09-29 19:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.9,
+    "evidence_clip": "evidence/EV-2026-0099-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 31,
+      "detected_computers": 20,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0100",
+    "centre_id": "TC-IN-007",
+    "timestamp": "2026-09-29 17:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.93,
+    "evidence_clip": "evidence/EV-2026-0100-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0101",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-29 15:44:43",
+    "scenario": "CAMERA_OFFLINE",
+    "confidence": 0.95,
+    "evidence_clip": "evidence/EV-2026-0101-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 25,
+      "detected_computers": 17,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0102",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-29 13:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0102-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 23,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0103",
+    "centre_id": "TC-MH-PN-042",
+    "timestamp": "2026-09-29 11:44:43",
+    "scenario": "ATTENDANCE_MISMATCH",
+    "confidence": 0.96,
+    "evidence_clip": "evidence/EV-2026-0103-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 30,
+      "detected_computers": 19,
+      "activity_score": "NORMAL"
+    }
+  },
+  {
+    "event_id": "EV-2026-0104",
+    "centre_id": "TC-KA-BLR-031",
+    "timestamp": "2026-09-29 09:44:43",
+    "scenario": "MISSING_EQUIPMENT",
+    "confidence": 0.94,
+    "evidence_clip": "evidence/EV-2026-0104-CLIP.mp4",
+    "frame_metadata": {
+      "detected_people": 29,
+      "detected_computers": 23,
+      "activity_score": "NORMAL"
+    }
+  }
+]

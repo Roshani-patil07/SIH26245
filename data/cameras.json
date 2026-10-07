@@ -1,0 +1,92 @@
+[
+  {
+    "camera_id": "CAM-TC-MH-PN-042-01",
+    "centre_id": "TC-MH-PN-042",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-KA-BLR-031-01",
+    "centre_id": "TC-KA-BLR-031",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-UP-LKN-019-01",
+    "centre_id": "TC-UP-LKN-019",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-004-01",
+    "centre_id": "TC-IN-004",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-005-01",
+    "centre_id": "TC-IN-005",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-006-01",
+    "centre_id": "TC-IN-006",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-007-01",
+    "centre_id": "TC-IN-007",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-008-01",
+    "centre_id": "TC-IN-008",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-009-01",
+    "centre_id": "TC-IN-009",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  },
+  {
+    "camera_id": "CAM-TC-IN-010-01",
+    "centre_id": "TC-IN-010",
+    "zone_name": "Main Computer Lab & Classroom",
+    "status": "ONLINE",
+    "fps": 29.8,
+    "cloud_edge_mode": "EDGE_PREFERRED",
+    "resolution": "1920x1080"
+  }
+]

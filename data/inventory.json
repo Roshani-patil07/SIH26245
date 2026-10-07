@@ -1,0 +1,82 @@
+[
+  {
+    "centre_id": "TC-MH-PN-042",
+    "computers": 20,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-KA-BLR-031",
+    "computers": 20,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-UP-LKN-019",
+    "computers": 20,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-004",
+    "computers": 20,
+    "projectors": 2,
+    "chairs": 35,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-005",
+    "computers": 25,
+    "projectors": 2,
+    "chairs": 45,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-006",
+    "computers": 25,
+    "projectors": 2,
+    "chairs": 45,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-007",
+    "computers": 30,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-008",
+    "computers": 20,
+    "projectors": 2,
+    "chairs": 45,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-009",
+    "computers": 25,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  },
+  {
+    "centre_id": "TC-IN-010",
+    "computers": 25,
+    "projectors": 2,
+    "chairs": 55,
+    "fire_extinguishers": 4,
+    "workbenches": 10
+  }
+]
